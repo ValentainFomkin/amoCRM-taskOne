@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amoCRM-taskOne/static/css/main.073c9b0a.css",
+    "main.js": "/amoCRM-taskOne/static/js/main.ee18b227.js",
+    "static/js/787.56c5f8ef.chunk.js": "/amoCRM-taskOne/static/js/787.56c5f8ef.chunk.js",
+    "index.html": "/amoCRM-taskOne/index.html",
+    "main.073c9b0a.css.map": "/amoCRM-taskOne/static/css/main.073c9b0a.css.map",
+    "main.ee18b227.js.map": "/amoCRM-taskOne/static/js/main.ee18b227.js.map",
+    "787.56c5f8ef.chunk.js.map": "/amoCRM-taskOne/static/js/787.56c5f8ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ee18b227.js"
+  ]
+}
